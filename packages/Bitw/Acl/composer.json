@@ -1,0 +1,19 @@
+{
+    "name": "bitw/acl",
+    "description": "Пример создания пакета",
+    "authors": [
+        {
+            "name": "bitw",
+            "email": "endval@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [],
+        "files": [],
+        "psr-4": {
+            "Bitw\\Acl": "src/"
+        }
+    },
+    "require": {}
+}
